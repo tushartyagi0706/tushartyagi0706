@@ -1,4 +1,4 @@
-<p align="center">
+
   <img src="https://raw.githubusercontent.com/tushartyagi0706/tushartyagi0706/main/banner.gif" width="100%" />
 </p>
 
