@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/tushartyagi0706/tushartyagi0706/main/banner.png" width="100%" />
 <p align="center">
+  <img src="https://raw.githubusercontent.com/tushartyagi0706/tushartyagi0706/main/banner.gif" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Tushar Tyagi</h1>
 <h3 align="center">Aspiring Data Analyst | Transforming Data into Business Decisions 📊</h3>
@@ -37,6 +38,10 @@
 ### 📈 Tools
 <p>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
 </p>
 
 ---
