@@ -1,5 +1,5 @@
-
-  <img src="https://raw.githubusercontent.com/tushartyagi0706/tushartyagi0706/main/banner.gif" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tushartyagi0706/tushartyagi0706/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tushar Tyagi</h1>
